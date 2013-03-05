@@ -1,0 +1,2 @@
+#php_value arg_separator.input ";&"
+#php_value arg_separator.output "&amp;"
